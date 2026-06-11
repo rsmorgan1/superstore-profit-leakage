@@ -23,4 +23,6 @@ I cleaned 10,194 transactions in R, then analyzed profit at exact discount level
 A 20% discount cap, with exception approval, could increase total profit by up to 47%. *This is an upper bound assuming capped orders still convert*. The policy should be specific by product - enforce the cap on Binders, but pair it with a cost review on Tables.
 
 [RPubs: Superstore Profit Leakage](https://rpubs.com/rsmorgan/profit_leak)
+
+
 [Tableau Public: Superstore Profit Leakage]()
